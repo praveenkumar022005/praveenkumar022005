@@ -30,9 +30,9 @@ Welcome to my GitHub! I'm a passionate and versatile individual with a solid fou
 ## 🌱 Currently Learning
 
 I'm actively exploring:
-- Advanced Java concepts
-- Frontend frameworks like JavaScript and React
-- Python for automation and data handling
+- Data Structure and Algorithms
+- Full Stack Development
+- Backend in MySQL
 
 ---
 
